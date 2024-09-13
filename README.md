@@ -1,7 +1,7 @@
 ### Thankspy
 ___
 #### Creator: Bay Claus
-#### License: [MIT](sonra_ekleA)
+#### License: [MIT](https://github.com/BayClaus/thankspy?tab=MIT-1-ov-file)
 #### Version: 1.0.0
 #### Exist Date: 13.09.2024
 ___
