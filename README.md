@@ -18,5 +18,5 @@ pip install PySide6
 ```
 ___
 ### DOWNLOAD THE PROJECT:
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge)](https://google.com/)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge)](https://github.com/BayClaus/thankspy/archive/refs/heads/main.zip)
 ___
