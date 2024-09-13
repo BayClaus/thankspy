@@ -1,0 +1,20 @@
+IMPORTANT: All you save going into documents!
+path: This PC > Documents > THANKS.txt
+
+About Thankspy:
+Creator: Bay Claus
+License: MIT
+Used Libraries: PySide6, sys, os, ctypes, pathlib
+
+Rules Of Thankspy:
+1. The list always will be alphabetic
+2. Recall option useable if you clear everyting.
+3. Recall clear himself after using.
+
+Controls:
+X Button: Clear and sent everyting to Recall
+= Button: Recall everyting you cleared.
+> Button: Insert to list.
+< Button: Remove from list.
+Refresh Button: Refresh lists.
+Save Button: Save your list.
