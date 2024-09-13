@@ -1,6 +1,6 @@
 ### Thankspy
 ___
-#### Creator: Bay Claus
+#### Creator: [Bay Claus](https://github.com/BayClaus)
 #### License: [MIT](https://github.com/BayClaus/thankspy?tab=MIT-1-ov-file)
 #### Version: 1.0.0
 #### Exist Date: 13.09.2024
