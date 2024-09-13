@@ -18,3 +18,7 @@ X Button: Clear and sent everyting to Recall
 < Button: Remove from list.
 Refresh Button: Refresh lists.
 Save Button: Save your list.
+
+Keyboard Controls:
+Enter: Insert to list.
+Escape(Esc): Remove from list.
