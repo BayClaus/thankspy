@@ -20,3 +20,8 @@ ___
 ### DOWNLOAD THE PROJECT:
 [![Download](https://img.shields.io/badge/Download-green?style=for-the-badge)](https://github.com/BayClaus/thankspy/archive/refs/heads/main.zip)
 ___
+### HOW TO SETUP:
+- Download Project
+- Unzip It
+- Enter 'thankspy' folder
+- Click 'main.pyw' two times
